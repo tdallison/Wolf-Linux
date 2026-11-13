@@ -1,0 +1,23 @@
+The "middle ground"
+
+I think this is the niche you're describing.
+
+Something like:
+
+Stable base (LTS)
+Predictable updates
+Modern desktop
+Native packages
+Sensible defaults
+Minimal background services
+Easy recovery if something goes wrong
+
+Not immutable.
+
+Not rolling.
+
+Not a server.
+
+Not a DIY science project.
+
+Just a well-engineered desktop OS.
